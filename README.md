@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhanuka Athapattu
-- 👀 I’m interested in Java, Python, C++, CUDA, Android
+- 👀 I’m interested in C++, Java, Python, CUDA, Android
 - 🌱 I’m currently learning Spring Boot, Angular and Android
 - 💞️ I’m looking to collaborate on Spring Boot, Angular and Android
 - 📫 How to reach me donbhanuka3@gmail.com
